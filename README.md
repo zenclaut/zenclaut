@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 New Grad<br>🌱 I’m currently learning React<br> 
+🔭 Master's student<br>🌱 I’m currently learning React<br> 
 
 
 ## 🌐 Socials:
