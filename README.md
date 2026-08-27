@@ -10,7 +10,6 @@
 ### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=zenclaut&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=zenclaut&theme=transparent&hide_border=false" alt="Streak Stats" /><br/><br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zenclaut&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
