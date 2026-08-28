@@ -1,4 +1,4 @@
-﻿# 💫 About Me:
+# 💫 About Me:
 🔭 Master's student<br>🌱 I’m currently learning React<br>
 
 ## 🚀 Live Projects:
