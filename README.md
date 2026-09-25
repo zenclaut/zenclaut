@@ -7,7 +7,7 @@
 | :--- | :--- | :---: | :---: |
 | 🎬 **YouTube Studio Downloader** | Dual-Engine (Serverless + Turbo FFmpeg) Chrome extension for downloading YouTube MP4 & MP3 | [🚀 Extension](https://github.com/zenclaut/youtube-downloader) | [📁 GitHub](https://github.com/zenclaut/youtube-downloader) |
 | 🍿 **Moviedux** | Movie catalog with rating/genre filtering & watchlist management | [🔗 Live Demo](https://zenclaut.github.io/Moviedux/) | [📁 GitHub](https://github.com/zenclaut/Moviedux) |
-| 💼 **Portfolio** | Personal portfolio website & resume showcase | [🔗 Live Demo](zencik.vercel.app) 
+| 💼 **Portfolio** | Personal portfolio website & resume showcase | [🔗 Live Demo](https://zencik.vercel.app) 
 | 🎟️ **Ticket Management** | Dynamic ticket management system (add, edit, delete tickets) | [🔗 Live Demo](https://zenclaut.github.io/ticket-management/) | [📁 GitHub](https://github.com/zenclaut/ticket-management) |
 | ✈️ **Backroads App** | Responsive travel and tour landing page | [🔗 Live Demo](https://zenclaut.github.io/backroads-app/) | [📁 GitHub](https://github.com/zenclaut/backroads-app) |
 | 💰 **FinApp** | Finance tracking and management application | [🔗 Live Demo](https://finapp-rho-nine.vercel.app) | [📁 GitHub](https://github.com/zenclaut/finapp) |
